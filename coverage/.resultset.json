@@ -1,0 +1,49 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/maria-eero-vanaale/Projects/process_reviews/quizz/spec/quizz_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/maria-eero-vanaale/Projects/process_reviews/quizz/lib/quizz.rb": [
+        1,
+        1,
+        null,
+        1,
+        0,
+        0,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1558815193
+  }
+}
